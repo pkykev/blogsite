@@ -1,4 +1,4 @@
-DROP DATABASE IF EXISTS user_db;
-CREATE DATABASE user_db;
+DROP DATABASE IF EXISTS homeworkuser_db;
+CREATE DATABASE homeworkuser_db;
 
 

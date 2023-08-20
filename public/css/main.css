@@ -1,0 +1,13 @@
+
+.navbar-brand {
+  margin-left: 47rem;
+}
+
+#post {
+  border-style: solid;
+  border-color: red;
+  border-width: .5rem;
+}
+.marginform {
+  margin-top: 1rem;
+}
